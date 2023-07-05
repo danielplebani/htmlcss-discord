@@ -151,7 +151,7 @@ main>section{
     padding: 2rem 0;
 }
 
-section,.last-section>.conteiner{
+section>.conteiner,.last-section>.conteiner{
     width: 80%;
     margin:auto;
     height: 100%;
