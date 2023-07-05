@@ -236,6 +236,21 @@ p ,h1{
     padding: 10px 21px;
     font-size: 14px;
 }
+
+.wave_top, .wave_bottom {
+    color: #f6f6f6;
+  }
+
+.wave_top
+  {
+    margin-bottom: -0.5rem;
+  }
+
+.wave_bottom
+  {
+    transform: rotate(180deg);
+    margin-top: -0.5rem;
+  }
 /*#endregion main*/
 
 
